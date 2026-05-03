@@ -1,18 +1,18 @@
-# machine-learning-project
+ # machine-learning-project
 
-This project tackles a classification problem to predict whether a client will subscribe to a term deposit through a telemarketing campaign. The goal is to optimize the bank's resources by targeting the campaign at clients with the highest probability of subscription.
+Este proyecto aborda un problema de clasificación para predecir si un cliente contratará un depósito a plazo mediante una campaña de marketing telefónico. El objetivo es optimizar los recursos del banco dirigiendo la campaña hacia los clientes con mayor probabilidad de contratación.  
 
-## Technologies and Tools
+## Tecnologías y Herramientas
 
-- Language: Python 3
-- Data Analysis and Manipulation: Pandas, NumPy
-- Visualization: Matplotlib
+- Lenguaje: Python 3
+- Análisis y Manipulación de Datos: Pandas, Numpy
+- Visualización: Matplotlib
 - Machine Learning: Scikit-Learn
-- Deployment: Streamlit
+- Despliegue: Streamlit
 
-## How to run the project
+## Cómo ejecutar el proyecto
 
-- Clone this repository.
-- Install the dependencies: `pip install -r requirements.txt`
-- Run the notebook to view the data analysis and train the model.
-- Launch the Streamlit app: `streamlit run mystreamlit_G5.py`
+- Clona este repositorio.
+- Instala las dependencias: pip install -r requirements.txt
+- Ejecuta el notebook para ver el análisis de datos y entrenar el modelo.
+- Lanza la aplicación de Streamlit: streamlit run mystreamlit_G5.py 
